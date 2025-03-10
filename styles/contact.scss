@@ -1,132 +1,137 @@
-$myFont: Mulish, sans-serif;
-$myColor: rgb(0, 107, 195);
-$myFontSize: 18px;
+// // @import 'navigation';
 
-body {
-  font-family: $myFont;
-padding: 5%;  font-size: $myFontSize(50px);
-//   color: $myColor;
-}
-
-h1 {
-    font-size: 40px;
-    font-weight: 500px;
-}
-
-
-a {
-    font-size: 22px;
-}
+// $myFont: Mulish, sans-serif;
+// $myColor: rgb(0, 107, 195);
+// $myFontSize: 18px;
 
 
 
+// // @mixin mainfont{
+// //   $myFont: Mulish, sans-serif;
+// // $myColor: rgb(0, 107, 195);
+// // $myFontSize: 18px;
+// // }
+
+// // body {
+// //   font-family: $myFont;
+// // // margin: 40px; 
+// // // @include mainfont;
+// // // font-size: $myFontSize;
+// // //   color: $myColor;
+// // }
+
+// // h1 {
+// //     font-size: 40px;
+// //     font-weight: 500px;
+// // }
 
 
-button {
-    height: 50px;
-    width: 125px;
-    color: white;
-    background-color: #4A4FF2;
-    border: none;
-}
-
-button:hover {
-  background-color: #100d42;
-}
-
-.input-field:hover {
-  background-color: rgb(209, 213, 255);
-}
-
-
-.navbar {
-display: flex;
-justify-content: space-between;
-background-color: rgb(255, 255, 255);
-align-items: center;
-justify-content: center;
-margin-bottom: 50px;
-}
-
-
-
-footer {
-    width: 90%;
-    display: flex;
-    background-color: rgb(255, 255, 255);
-    align-items: center;
-    justify-content: space-between;
-    margin-top: 50px;
-    }
+// // a {
+// //     font-size: 22px;
+// // }
 
 
 
 
-.links, a:link, a:visited {
-    color: black;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    // &:hover {
-    //     color: rgb(0, 146, 137);
-      }
+
+// button {
+//     height: 50px;
+//     width: 125px;
+//     color: white;
+//     background-color: #4A4FF2;
+//     border: none;
+// }
+
+// button:hover {
+//   background-color: #100d42;
+// }
+
+// .input-field:hover {
+//   background-color: rgb(209, 213, 255);
+// }
 
 
-  .links {
-    margin-left: auto;
-  }
+// .navbar {
+// display: flex;
+// justify-content: space-between;
+// background-color: rgb(255, 255, 255);
+// align-items: center;
+// justify-content: center;
+// margin-bottom: 50px;
+// }
+
+
+
+// // footer {
+// //     width: 90%;
+// //     display: flex;
+// //     background-color: rgb(255, 255, 255);
+// //     align-items: center;
+// //     justify-content: space-between;
+// //     margin-top: 50px;
+// //     }
+
+
+
+
+// // .links, a:link, a:visited {
+// //     color: black;
+// //     text-align: center;
+// //     text-decoration: none;
+// //     display: inline-block;
+// //     // &:hover {
+// //     //     color: rgb(0, 146, 137);
+// //       }
+
+
+// //   .links {
+// //     margin-left: auto;
+// //   }
   
 
-.topcontainer {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-min-width: none;
-max-width: 100%;
-  width: 100%;
-height: auto;
-  background-color: #ffffff;
-  margin-bottom: 50px;
-  }
+// // .topcontainer {
+// //   display: flex;
+// //   flex-direction: row;
+// //   justify-content: space-between;
+// // min-width: none;
+// // max-width: 100%;
+// //   width: 100%;
+// // height: auto;
+// //   background-color: #b04242;
+// //   margin-bottom: 50px;
+// //   }
 
-  // .leftalign {
-  //   width: 500px;
-  // }
+// //   // .leftalign {
+// //   //   width: 500px;
+// //   // }
 
-  .rightalign {
-    display: flex;
-    padding: 50px;
-    justify-self: end;
-  }
-
-
-cant seem to make the map
-.map {
-  display: flex;
-  justify-items: center;
-  margin-top: 50px;
-  width: auto;
-  max-width: 350px;
-  height: auto;
-  margin-bottom: 50px;
-}  
+// //   .rightalign {
+// //     display: flex;
+// //     padding: 50px;
+// //     justify-self: end;
+// //   }
 
 
 
-form {
-  font-family: $myFont;
-  font-size: $myFontSize;
-  min-width: 600px;
-  width: auto;
-}
+// form {
+//   font-family: $myFont;
+// }
 
-input {
-  border: none;
-  background: transparent;
-  border-bottom: 1px solid #000000;
-  margin-top: 50px;
-  padding-top: 20px;
-}
+
+// // form {
+// //   font-family: $myFont;
+// //   font-size: $myFontSize;
+// //   min-width: 600px;
+// //   width: auto;
+// // }
+
+// // input {
+// //   border: none;
+// //   background: transparent;
+// //   border-bottom: 1px solid #000000;
+// //   margin-top: 50px;
+// //   padding-top: 20px;
+// // }
 
 
 

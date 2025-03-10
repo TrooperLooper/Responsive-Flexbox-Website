@@ -22,9 +22,3 @@ footer {
       -ms-flex-pack: justify;
           justify-content: space-between;
 }
-
-body {
-  font-family: Mulish, sans-serif;
-  padding: 5%;
-  font-size: 18px 50px;
-}
