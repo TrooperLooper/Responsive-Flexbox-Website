@@ -1,6 +1,6 @@
 # Responsive Flexbox Site
 
-A responsive frontend project built as part of a school assignment to practice layout and responsiveness using CSS Flexbox. The site demonstrates a mobile-first, accessible layout with flexible components that adapt across common breakpoints.
+A responsive frontend project built as part of a school assignment to practice layout and responsiveness using CSS Flexbox and SCSS (Sass). The site demonstrates a mobile-first, accessible layout with flexible components that adapt across common breakpoints. 
 
 ---
 
@@ -14,7 +14,7 @@ This project is a small static website that showcases how to build responsive la
 
 ## What I worked on
 
-- Built a mobile-first responsive layout using CSS Flexbox.
+- Built a mobile-first responsive layout using CSS Flexbox and SCSS (Sass).
 - Implemented a responsive navigation bar that collapses/adjusts across breakpoints.
 - Created a hero section with a flexible layout that reflows from stacked (mobile) to side-by-side (desktop).
 - Implemented a card/grid section using flex-wrap and responsive flex-basis for equal-height cards.
