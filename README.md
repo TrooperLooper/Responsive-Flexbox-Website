@@ -8,7 +8,7 @@ A responsive frontend project built as part of a school assignment to practice l
 
 This project is a small static website that showcases how to build responsive layouts using modern CSS (Flexbox). The goal was to create a clean, accessible, and responsive UI that works well on phones, tablets, and desktops without relying on CSS frameworks.
 
-![Screenshot](screenshot_genesis.png){:height="250px"}
+<img src="screenshot_genesis.png" alt="Screenshot of landing page" height="250">
 
 ---
 
