@@ -8,8 +8,7 @@ A responsive frontend project built as part of a school assignment to practice l
 
 This project is a small static website that showcases how to build responsive layouts using modern CSS (Flexbox). The goal was to create a clean, accessible, and responsive UI that works well on phones, tablets, and desktops without relying on CSS frameworks.
 
-Live demo: (add link here if available)  
-Screenshot: (add screenshot in /assets or link here)
+![Screenshot](screenshot_genesis.png){:height="250px"}
 
 ---
 
@@ -68,9 +67,11 @@ Screenshot: (add screenshot in /assets or link here)
 This is a static site — you can open `index.html` directly in the browser, or run a simple local server.
 
 Option 1 — open directly:
+
 - Double-click `index.html` or right-click → Open with your browser.
 
 Option 2 — run a local static server (recommended for consistent resource loading):
+
 - Python 3:
   - `python -m http.server 8000`
   - Open http://localhost:8000
